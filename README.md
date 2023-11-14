@@ -2,7 +2,8 @@
 In first commit is Version 0 
 
 Customer side : Can not reserve movie and store into Database (coming soon in next version)
-Admin side : Can not manage showtime of movie and not have dashboard to see ovverview (coming soon in next version)
+
+Admin side : Can not manage showtime of movie and not have dashboard to see overview (coming soon in next version)
 
 How to run
 1. Install xampp
